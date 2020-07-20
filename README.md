@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A new Flutter web project.
 ![Flutter Web Screenshot](flutter_web.jpg)
 
 ## Getting Started
